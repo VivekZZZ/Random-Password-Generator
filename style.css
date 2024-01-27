@@ -77,3 +77,12 @@ body {
 #copyPw {
     display: none;
 }
+
+
+/* ---------------- Media Query ------------------- */
+
+@media screen and (max-width: 800px){
+    .container {
+        
+    }
+}
